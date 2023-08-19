@@ -1,0 +1,5 @@
+[app]
+name = "bild-app"
+stylized-name = "Bild App"
+domain = "xyz.waalrus.bild"
+template-pack = "egui"
